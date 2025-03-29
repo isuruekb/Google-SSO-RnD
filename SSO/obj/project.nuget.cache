@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "z9EB65Y0onOqEY6F4CDN0sq1tiaWNRDMgeO+5NeteKnH02M3G8HWT+5qkpMlOYf+11PGOayO/og9v77ZDiBy8Q==",
+  "success": true,
+  "projectFilePath": "E:\\google sso\\SSO\\SSO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IsuruBandara\\.nuget\\packages\\microsoft.aspnetcore.authentication.google\\6.0.29\\microsoft.aspnetcore.authentication.google.6.0.29.nupkg.sha512",
+    "C:\\Users\\IsuruBandara\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.5.1\\microsoft.identitymodel.abstractions.7.5.1.nupkg.sha512",
+    "C:\\Users\\IsuruBandara\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.5.1\\microsoft.identitymodel.jsonwebtokens.7.5.1.nupkg.sha512",
+    "C:\\Users\\IsuruBandara\\.nuget\\packages\\microsoft.identitymodel.logging\\7.5.1\\microsoft.identitymodel.logging.7.5.1.nupkg.sha512",
+    "C:\\Users\\IsuruBandara\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.5.1\\microsoft.identitymodel.tokens.7.5.1.nupkg.sha512",
+    "C:\\Users\\IsuruBandara\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.5.1\\system.identitymodel.tokens.jwt.7.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
